@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\UE4\\FirstProject\\Source\\FirstProject\\FirstProject.Build.cs",
+		"F:\\UE4\\FirstProject\\Source\\FirstProject.Target.cs",
+		"F:\\UE4\\FirstProject\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

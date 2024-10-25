@@ -1,0 +1,16 @@
+﻿  Parsing headers for FirstProjectEditor
+    Running UnrealHeaderTool "F:\UE4\FirstProject\FirstProject.uproject" "F:\UE4\FirstProject\Intermediate\Build\Win64\FirstProjectEditor\Development\FirstProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\taaun\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for FirstProjectEditor in 4.1602895 seconds
+  Building FirstProjectEditor...
+  Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 12 processes...
+    [1/6] FirstProject.init.gen.cpp
+    [2/6] MainAnimInstance.gen.cpp
+    [3/6] MainAnimInstance.cpp
+    [4/6] UE4Editor-FirstProject-0092.lib
+       Creating library F:\UE4\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0092.lib and object F:\UE4\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0092.exp
+    [5/6] UE4Editor-FirstProject-0092.dll
+       Creating library F:\UE4\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0092.suppressed.lib and object F:\UE4\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0092.suppressed.exp
+    [6/6] FirstProjectEditor.target
+  Total time in Parallel executor: 24.00 seconds
+  Total execution time: 28.92 seconds
